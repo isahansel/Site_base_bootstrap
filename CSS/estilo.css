@@ -2,9 +2,13 @@ body{
     background-color: rgb(0, 0, 0);
     align-items: center;
     justify-content: center;
+    margin: 0px;
+  padding: 0px;
+  text-align: center;
 }
 .col{
     background-color: rgb(0, 0, 0);
+    text-align: center;
 }
 .container{
     margin-top:20px;
@@ -23,5 +27,15 @@ body{
 
 h2{
     color:white;
+    font-family: fantasy;
+    font-size: 50px;
 
+}
+
+p{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-left: 70px;
+    margin-right: 70px;
 }
