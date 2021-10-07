@@ -19,6 +19,9 @@ body{
 
 .row{
     margin-bottom: 20px;
+        display: flex;
+        justify-content: center;
+
 }
 .nav{
     text-align: center;
@@ -38,4 +41,19 @@ p{
     text-align: center;
     margin-left: 70px;
     margin-right: 70px;
+}
+
+.nav-link {
+	color: honeydew;
+	padding-right: 50px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+.nav-link:hover {
+	color: red;
+}
+
+.img-fluid2{
+    border-radius: 50%;
 }
