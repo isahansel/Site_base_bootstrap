@@ -31,7 +31,7 @@ body{
 h2{
     color:white;
     font-family: fantasy;
-    font-size: 50px;
+    font-size: 45px;
 
 }
 
@@ -45,9 +45,9 @@ p{
 
 .nav-link {
 	color: honeydew;
-	padding-right: 50px;
-    font-family:'Courier New', Courier, monospace;
-    font-size: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+    align-items: center;
 }
 
 .nav-link:hover {
@@ -55,5 +55,5 @@ p{
 }
 
 .img-fluid2{
-    border-radius: 50%;
+    border-radius: 40%;
 }
